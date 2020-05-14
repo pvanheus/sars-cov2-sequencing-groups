@@ -48,7 +48,7 @@ def summarise_metadata(input_file: TextIO, output_file: TextIO):
         ('Division of Consolidated Laboratory Services', 'VA DCLS'),
         ('Fuyang City Center for Disease Control and Prevention', 'Clinical Laboratory'),
         ('Chulalongkorn University Faculty of Medicine', 'Faculty of Medicine'),
-        ('Guangdong Provincial Center for Disease Control and Prevention', 'Department of Microbiology, Guangdong Provincial Center for Diseases Control and Prevention'),
+        ('Guangdong Provincial Center for Disease Control and Prevention', 'Department of Microbiology, Guangdong Provincial Center for Diseases Control and Prevention', 'Guangdong Provincial Center for Diseases Control and Prevention'),
         ('Gujarat Biotechnology Research Centre, Gandhinagar', 'Gujarat Biotechnology Research Centre'),
         ('Hopitaux universitaires de Geneve Laboratoire de Virologie', 'University Hospitals of Geneva Laboratory of Virology'),
         ('Hangzhou Center for Diseases Control and Prevention', 'Inspection Center of Hanghzou Center for Disease Control and Prevention'),
